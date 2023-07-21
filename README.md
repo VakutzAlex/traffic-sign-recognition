@@ -31,10 +31,10 @@ The GTSRB dataset can be downloaded from the following link:
 
 ## Referrences
 
--[GTSRB Dataset](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign?resource=download) - The German Traffic Sign Recognition Benchmark (GTSRB) dataset used for training the traffic sign recognition model.
--[OpenCV Documentation](https://docs.opencv.org/4.x/index.html) - Documentation for OpenCV library.
--[TensorFlow](https://www.tensorflow.org/api_docs) - Documentation for TensorFlow library.
--[Python 3.11.4 documentation](https://docs.python.org/3/) - Official Python documentation.
+- [GTSRB Dataset](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign?resource=download) - The German Traffic Sign Recognition Benchmark (GTSRB) dataset used for training the traffic sign recognition model.
+- [OpenCV Documentation](https://docs.opencv.org/4.x/index.html) - Documentation for OpenCV library.
+- [TensorFlow](https://www.tensorflow.org/api_docs) - Documentation for TensorFlow library.
+- [Python 3.11.4 documentation](https://docs.python.org/3/) - Official Python documentation.
 
 ## Conclusion
 
